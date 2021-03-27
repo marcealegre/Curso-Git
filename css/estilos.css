@@ -1,7 +1,5 @@
 body {
     background-color: blue;
-}
-
-h1 {
     color: yellow;
+    font-weight: bold;
 }
