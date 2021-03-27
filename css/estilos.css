@@ -3,3 +3,7 @@ body {
     color: yellow;
     font-weight: bold;
 }
+
+a {
+    color: red;
+}
